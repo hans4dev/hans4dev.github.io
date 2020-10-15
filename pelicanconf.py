@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'hans4dev'
-SITENAME = 'Developers Amnesia'
+SITENAME = 'Developer\'s Amnesia'
 SITEURL = ''
 
 PATH = 'content'

@@ -7,13 +7,13 @@ date: 2020-10-15
 
 You may ask ..
 
-## Why is this blog named "Developer Amnesia'?
+## Why is this blog named "Developer's Amnesia'?
 Because this is what best describes what happens to us everyday, especially as developer.
 
 Imagine changing a piece of software. Do you remember 6 months later what and why you changed it?
 Or when confronted with a problem, knowing the solution, but struggling to convince others. Then you remember this blog post you read someday. Which explains the point clearly and concise. Remembering the URL, finding it by terms or just trying to recall its essentials can be hard and time consuming.
 
-That's akin 'Developers Amnesia', a popular condition among developers like me, and you?
+That's akin 'Developer's Amnesia', a popular condition among developers like me .. and you?
 
 ## What content can I expect?
 
